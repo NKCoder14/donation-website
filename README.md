@@ -27,7 +27,6 @@ A modern, responsive web application built using **Next.js** that allows users t
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide React Icons](https://lucide.dev/icons/)
 - [TypeScript](https://www.typescriptlang.org/) (optional)
-- [Vercel](https://vercel.com/) (for deployment)
 
 ---
 
