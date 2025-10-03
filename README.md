@@ -1,4 +1,4 @@
-# donation-website
+# Donation Website
 # 🌱 Donation Platform for NGOs 
 
 A modern, responsive web application built using **Next.js** that allows users to view NGOs and donate to them. Built to bridge the gap between people who want to help and NGOs that need support.
